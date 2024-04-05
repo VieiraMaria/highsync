@@ -1,5 +1,5 @@
- @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900*&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900*&display=swap");
+  
 *    {
     margin: 0;
     padding: 0;
@@ -13,8 +13,8 @@ body {
     align-items: center;
     min-height: 100vh;
     background: url('img.jpg') no-repeat;
-    backgorud-size: cover;
-    backgorud-position: center;
+    background-size: cover;
+    background-position: center;
  
 }
 
@@ -75,18 +75,18 @@ body {
  color: #fff;
  text-decoration: none;
 }
-.remember=forgot a:hover {
- text-decoration: underline:
+.remember-forget a:hover {
+ text-decoration: underline;
 }
 .wrapper .btm {
  width: 100px;
  height: 45px;
- backgorund: #fff;
+ background: #fff;
  border: none;
  outline: none;
  border-radius: 40px;
  box-shadow: 40px;
- box-shador: 0 0 10px rgba(0, 0, 0, .1);
+ box-shadow: 0 0 10px rgba(0, 0, 0, .1);
  cursor: pointer;
  font-size: 16px;
  color: #333;
@@ -105,3 +105,4 @@ body {
  .register.link p a:hover {
   text-decoration: underline;
  }
+  
